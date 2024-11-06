@@ -1,5 +1,5 @@
-// pages/404.js
+// pages/404.tsx
 export default function Custom404() {
-    return <h1> </h1>;
+    return <h1>.</h1>;
   }
   
